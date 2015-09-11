@@ -20,4 +20,5 @@ My new ride will have one of these bad boys hidden in one of the hollow compartm
 ### Dependencies
 * Adafruit GPS Library: https://github.com/adafruit/Adafruit-GPS-Library/
 * Initial Calibration of Accelerometer: https://learn.adafruit.com/adafruit-analog-accelerometer-breakouts/programming
+* Adafruit FONA Library: https://github.com/adafruit/Adafruit_FONA_Library/archive/master.zip
 
