@@ -1,3 +1,5 @@
+## This repo is still very new. Stay tuned.
+
 # finderskeepers
 An Arduino-based platform to track any of your personal belongings.
 
